@@ -147,6 +147,7 @@ h1, h2, h3, h4, h5, h6 {
   #hero {
     background-attachment: fixed;
   }
+  .modal-dialog{width:1000px;margin:30px auto}
 }
 
 #hero:before {
@@ -1244,4 +1245,3 @@ body.mobile-nav-active #mobile-nav-toggle {
 #ubea-hero .flexslider .slider-text > .slider-text-inner .ubea-lead .icon-heart {
   color: #d9534f;
 }
-.modal-dialog{width:1000px;margin:30px auto}
