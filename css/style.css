@@ -9,10 +9,11 @@
 --------------------------------------------------------------*/
 body {
   background: #fff;
-  color: #666666;
+  color: black;
   font-family: "Open Sans", sans-serif;
+  font-size: 18px;
 }
-
+p{color: black;}
 a {
   color: #2dc997;
 }
@@ -390,7 +391,7 @@ h1, h2, h3, h4, h5, h6 {
   display: inline-block;
   color: #fff;
   font-family: "Poppins", sans-serif;
-  font-weight: 400;
+  font-weight: 900;
   text-transform: uppercase;
   font-size: 13px;
   outline: none;
