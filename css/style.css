@@ -1116,7 +1116,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 #ubea-hero {
   /* min-height: 700px; */
-  background: #fff url(../img/portfolio/app1team.jpg) no-repeat center center;
+  /* background: #fff url(../img/portfolio/app1team.jpg) no-repeat center center; */
 }
 #ubea-hero .btn {
   font-size: 24px;
