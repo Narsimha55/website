@@ -1,0 +1,13 @@
+{
+  "name": "website",
+  "version": "1.0.0",
+  "description": "website",
+  "scripts": {
+    "start": "./node_modules/.bin/http-server ."
+  },
+  "author": "narsimha",
+  "license": "MIT",
+  "dependencies": {
+    "http-server": "^0.10.0"
+  }
+}
